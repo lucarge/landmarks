@@ -7,7 +7,6 @@ Helpers for loading images and data.
 
 import Foundation
 import CoreLocation
-import UIKit
 import SwiftUI
 import ImageIO
 
